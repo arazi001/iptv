@@ -1,0 +1,33 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://ebravo.pk/classic/uploads/webtv/Sports/97495ac077d4d58c043c0c55f87d0d47.jpg" , Star Sports 1
+#EXTGRP: Sports
+http://192.168.246.134:1935/live/Star-Sports-HD-1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://ebravo.pk/classic/uploads/webtv/Sports/a84f37a180d7e5814d736d5dbb7088a3.png" , Star Sports 1 Hindi
+#EXTGRP: Sports
+http://192.168.246.105:1935/live/Star-Sports-1-Hindi.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://ebravo.pk/classic/uploads/webtv//b707bf7550dfe89e5ab2b83b7395e008.jpg" , Bien Sports 1
+#EXTGRP: Sports
+http://58.65.194.14:1935/live/trace sports HD.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://ebravo.pk/classic/uploads/webtv//2803c513f09410485c0a7e96f7311b0a.jpg" , Bein Sports 3
+#EXTGRP: Sports
+http://58.65.194.14:1935/live/bein-sports-13.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://ebravo.pk/classic/uploads/webtv//6a0539b834b6dabf4a3e56b8e842b0f4.jpg" , Ten Sports 1
+#EXTGRP: Sports
+http://203.101.163.5:1935/live/tensports.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://ebravo.pk/classic/uploads/webtv/Sports/cf833372e2f49a7f705af27e74267950.jpg" , Ten Sports 2
+#EXTGRP: Sports
+http://192.168.246.102:1935/live/tensports.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://ebravo.pk/classic/uploads/webtv/Sports/86a8727c9b562fd8c5afc6255dbe4f4e.png" , Ten Sports 4
+#EXTGRP: Sports
+http://192.168.246.105:1935/live/tensports.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://ebravo.pk/classic/uploads/webtv/Sports/6e5468c9399a0a84513d09bcfe5ccb96.jpg" , PTV Sports
+#EXTGRP: Sports
+http://192.168.246.105:1935/live/PTV-Sports.stream/playlist.m3u8
