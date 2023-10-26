@@ -51,3 +51,59 @@ http://192.168.246.105:1935/live/tensports.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ebravo.pk/classic/uploads/webtv/Sports/6e5468c9399a0a84513d09bcfe5ccb96.jpg" , PTV Sports
 #EXTGRP: Sports
 http://192.168.246.105:1935/live/PTV-Sports.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://ebravo.pk/classic/uploads/webtv//d577d94287bb0574b81ebd06be4dc531.jpg" , bravo now
+#EXTGRP: Movies
+http://58.65.194.14:1935/live/Bravo-now.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://ebravo.pk/classic/uploads/webtv//e73b7396cac661950f169cfe3e2dbddb.jpg" , AXN Spin
+#EXTGRP: Movies
+http://58.65.194.14:1935/live/AXNspinHD.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://ebravo.pk/classic/uploads/webtv//54de0c8bbcd5937306f4a6a6ca547bc6.jpg" , AXN HD
+#EXTGRP: Movies
+http://58.65.194.14:1935/live/AXN.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://ebravo.pk/classic/uploads/webtv//cf918d71161d98085ac604c43c37b486.jpg" , MBC Max
+#EXTGRP: Movies
+http://58.65.194.14:1935/live/MBCMax.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://ebravo.pk/classic/uploads/webtv//bfc03646f76a46dc87bbe51d8545d316.jpg" , MBC Action
+#EXTGRP: Movies
+http://58.65.194.14:1935/live/MBC-Action-HD.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://ebravo.pk/classic/uploads/webtv//0844aad39eb62bed2e27c69a772d3595.jpg" , MBC 4 HD
+#EXTGRP: Movies
+http://58.65.194.14:1935/live/MBC-4.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://ebravo.pk/classic/uploads/webtv//79ebbd42e0e9aab874120163fec6deeb.jpg" , Comedy Central
+#EXTGRP: Movies
+http://58.65.194.14:1935/live/Comedy-Central-HD.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://ebravo.pk/classic/uploads/webtv//548cd6c799c85e1fbd9d4e28380b57ab.jpg" , Fox HD
+#EXTGRP: Movies
+http://58.65.194.14:1935/live/FOX-HD.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://ebravo.pk/classic/uploads/webtv//2e078704a24427569982903907328abf.jpg" , Fox Comedy
+#EXTGRP: Movies
+http://58.65.194.14:1935/live/Fox-Comedy-HD.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://ebravo.pk/classic/uploads/webtv//f0f7d290d2983a8cbd0c5e535e695175.jpg" , HBO
+#EXTGRP: Movies
+http://58.65.194.14:1935/live/MotorvisionHD.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://ebravo.pk/classic/uploads/webtv//b7cadfe12fb5d1bea781cf29a8838c77.jpg" , OSN Movies Action
+#EXTGRP: Movies
+http://58.65.194.14:1935/live/HBO-3-HD.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://ebravo.pk/classic/uploads/webtv//359ebf2483cf2b22dab7e8ea5f4eb4ac.jpg" , HBO2 
+#EXTGRP: Movies
+http://58.65.194.14:1935/live/HBO-2-HD.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://ebravo.pk/classic/uploads/webtv//8b657ef59fb77825a6a1175bde774143.jpg" , HBO3
+#EXTGRP: Movies
+http://58.65.194.14:1935/live/AD Sports 2 HD.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://ebravo.pk/classic/uploads/webtv//cd22b4d6ef5643e1334d4cbf7f1bd0d2.jpg" , GEM Onyx
+#EXTGRP: Movies
+http://58.65.194.14:1935/live/Fashion-tv.stream/playlist.m3u8
